@@ -6,4 +6,4 @@ def arrow(my_char, max_length):
             print("*" * (max_length - line - 1))
 
 
-arrow("*", 5)
+arrow("*", 8)
