@@ -1,3 +1,4 @@
+# the function retern the greater than n numbers in a given list
 def is_greater(my_list, n):
     new_list = []
     for num in my_list:
